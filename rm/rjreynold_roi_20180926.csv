@@ -1,0 +1,867 @@
+population,run,group,year,contact_type,engage_tier,cost_location,cost_attributed,total_cost,members,employees,visits,members_clm,hierarchy,pmpy_cost,pmpy_cost_clm,avg_risk,pmpy_cost_risk,pmpy_cost_clm_risk
+Outreach,run1,Outreach,2016,Automated Outbound,,ER,Member,1147723.79,2957,1854,663,388,,388.13790666,2958.0510052,1.6879864699,229.94136125,1752.413931
+Outreach,run1,Outreach,2016,Automated Outbound,,Inpatient,Member,3582983.66,2957,1854,181,131,,1211.6955225,27351.020305,1.6879864699,717.83485477,16203.340958
+Outreach,run1,Outreach,2016,Automated Outbound,,Medical,Member,14529894.26,2957,1854,25274,2455,,4913.7281907,5918.4905336,1.6879864699,2910.9997493,3506.2428752
+Outreach,run1,Outreach,2016,Automated Outbound,,Outpatient,Member,5018817.2,2957,1854,4507,1282,,1697.2665539,3914.8340094,1.6879864699,1005.4977242,2319.2330502
+Outreach,run1,Outreach,2016,Automated Outbound,,Pharmacy,Member,9201893.68,2957,1854,31972,2337,,3111.9018194,3937.4812495,1.6879864699,1843.5585088,2332.6497692
+Outreach,run1,Outreach,2016,Automated Outbound,,Professional,Member,5928093.4,2957,1854,23850,2450,,2004.7661143,2419.6299592,1.6879864699,1187.6671703,1433.4415603
+Outreach,run1,Outreach,2016,Automated Outbound,,Total,Member,23731787.94,2957,1854,,,,8025.6300101,,1.6879864699,4754.5582581,
+Outreach,run1,Outreach,2016,Mailers,,ER,Member,1400138.68,3532,2247,817,458,,396.41525481,3057.0713537,1.6879864699,234.84504282,1811.0757451
+Outreach,run1,Outreach,2016,Mailers,,Inpatient,Member,4283600.04,3532,2247,217,160,,1212.7972933,26772.50025,1.6879864699,718.48756784,15860.61306
+Outreach,run1,Outreach,2016,Mailers,,Medical,Member,17695581.39,3532,2247,31555,3017,,5010.0740062,5865.2904839,1.6879864699,2968.0771117,3474.7260055
+Outreach,run1,Outreach,2016,Mailers,,Outpatient,Member,6001872.18,3532,2247,5534,1555,,1699.2843092,3859.7248746,1.6879864699,1006.6930864,2286.5851968
+Outreach,run1,Outreach,2016,Mailers,,Pharmacy,Member,10188348.96,3532,2247,39695,2885,,2884.5835108,3531.4901075,1.6879864699,1708.8901849,2092.1317619
+Outreach,run1,Outreach,2016,Mailers,,Professional,Member,7410109.17,3532,2247,29790,3012,,2097.9924037,2460.1956076,1.6879864699,1242.8964575,1457.4735351
+Outreach,run1,Outreach,2016,Mailers,,Total,Member,27883930.35,3532,2247,,,,7894.657517,,1.6879864699,4676.9672966,
+Outreach,run1,Outreach,2016,Outbound Outreach,,Medical,Member,,,,0,0,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Outbound Outreach,,Pharmacy,Member,,,,0,0,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Outbound Outreach,,Total,Member,,,,,,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Total,,ER,Member,1400138.68,3532,2247,817,458,,396.41525481,3057.0713537,1.6879864699,234.84504282,1811.0757451
+Outreach,run1,Outreach,2016,Total,,Inpatient,Member,4283600.04,3532,2247,217,160,,1212.7972933,26772.50025,1.6879864699,718.48756784,15860.61306
+Outreach,run1,Outreach,2016,Total,,Medical,Member,17695581.39,3532,2247,31555,3017,,5010.0740062,5865.2904839,1.6879864699,2968.0771117,3474.7260055
+Outreach,run1,Outreach,2016,Total,,Outpatient,Member,6001872.18,3532,2247,5534,1555,,1699.2843092,3859.7248746,1.6879864699,1006.6930864,2286.5851968
+Outreach,run1,Outreach,2016,Total,,Pharmacy,Member,10188348.96,3532,2247,39695,2885,,2884.5835108,3531.4901075,1.6879864699,1708.8901849,2092.1317619
+Outreach,run1,Outreach,2016,Total,,Professional,Member,7410109.17,3532,2247,29790,3012,,2097.9924037,2460.1956076,1.6879864699,1242.8964575,1457.4735351
+Outreach,run1,Outreach,2016,Total,,Total,Member,27883930.35,3532,2247,,,,7894.657517,,1.6879864699,4676.9672966,
+Outreach,run1,Outreach,2016,Automated Outbound,,ER,Employee,527346.64,2957,1854,288,212,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Automated Outbound,,Inpatient,Employee,1738796.98,2957,1854,78,60,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Automated Outbound,,Medical,Employee,7503975.71,2957,1854,13691,1494,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Automated Outbound,,Outpatient,Employee,2550417.48,2957,1854,2441,716,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Automated Outbound,,Pharmacy,Employee,2711734.3,2957,1854,17199,1434,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Automated Outbound,,Professional,Employee,3214761.25,2957,1854,12844,1490,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Automated Outbound,,Total,Employee,10215710.01,2957,1854,,,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Mailers,,ER,Employee,688915.1,3532,2247,386,255,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Mailers,,Inpatient,Employee,2171658.99,3532,2247,98,77,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Mailers,,Medical,Employee,9444842.32,3532,2247,17741,1877,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Mailers,,Outpatient,Employee,3186820.59,3532,2247,3070,891,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Mailers,,Pharmacy,Employee,3278219.23,3532,2247,22180,1808,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Mailers,,Professional,Employee,4086362.74,3532,2247,16670,1873,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Mailers,,Total,Employee,12723061.55,3532,2247,,,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Outbound Outreach,,Medical,Employee,,,,0,0,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Outbound Outreach,,Pharmacy,Employee,,,,0,0,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Outbound Outreach,,Total,Employee,,,,,,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Total,,ER,Employee,688915.1,3532,2247,386,255,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Total,,Inpatient,Employee,2171658.99,3532,2247,98,77,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Total,,Medical,Employee,9444842.32,3532,2247,17741,1877,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Total,,Outpatient,Employee,3186820.59,3532,2247,3070,891,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Total,,Pharmacy,Employee,3278219.23,3532,2247,22180,1808,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Total,,Professional,Employee,4086362.74,3532,2247,16670,1873,,,,1.6879864699,,
+Outreach,run1,Outreach,2016,Total,,Total,Employee,12723061.55,3532,2247,,,,,,1.6879864699,,
+Outreach,run1,Outreach,2017,Automated Outbound,,ER,Member,1534725.07,4029,2587,861,537,,380.9196004,2857.9610242,1.574424379,241.94213802,1815.2418512
+Outreach,run1,Outreach,2017,Automated Outbound,,Inpatient,Member,4884438.94,4029,2587,337,193,,1212.320412,25307.973782,1.574424379,770.00866361,16074.429563
+Outreach,run1,Outreach,2017,Automated Outbound,,Medical,Member,22350663.76,4029,2587,35820,3499,,5547.4469496,6387.7289969,1.574424379,3523.4762772,4057.1837442
+Outreach,run1,Outreach,2017,Automated Outbound,,Outpatient,Member,8899779.19,4029,2587,6849,1768,,2208.9300546,5033.811759,1.574424379,1403.0080353,3197.239465
+Outreach,run1,Outreach,2017,Automated Outbound,,Pharmacy,Member,10588226.49,4029,2587,43634,3304,,2628.0035964,3204.6690345,1.574424379,1669.1837547,2035.4544031
+Outreach,run1,Outreach,2017,Automated Outbound,,Professional,Member,8566445.63,4029,2587,33747,3496,,2126.196483,2450.3563015,1.574424379,1350.4595784,1556.3505839
+Outreach,run1,Outreach,2017,Automated Outbound,,Total,Member,32938890.25,4029,2587,,,,8175.450546,,1.574424379,5192.6600319,
+Outreach,run1,Outreach,2017,Mailers,,ER,Member,1534725.07,4033,2589,861,537,,380.54179767,2857.9610242,1.574424379,241.70217557,1815.2418512
+Outreach,run1,Outreach,2017,Mailers,,Inpatient,Member,4884438.94,4033,2589,337,193,,1211.1180114,25307.973782,1.574424379,769.24495554,16074.429563
+Outreach,run1,Outreach,2017,Mailers,,Medical,Member,22358189.36,4033,2589,35852,3503,,5543.8109001,6382.5833172,1.574424379,3521.1668303,4053.9154515
+Outreach,run1,Outreach,2017,Mailers,,Outpatient,Member,8900067.61,4033,2589,6850,1769,,2206.8107141,5031.1292312,1.574424379,1401.6619303,3195.53565
+Outreach,run1,Outreach,2017,Mailers,,Pharmacy,Member,10591139.01,4033,2589,43666,3307,,2626.1192685,3202.6425794,1.574424379,1667.9869186,2034.1672945
+Outreach,run1,Outreach,2017,Mailers,,Professional,Member,8573682.81,4033,2589,33779,3500,,2125.8821746,2449.62366,1.574424379,1350.2599445,1555.8852446
+Outreach,run1,Outreach,2017,Mailers,,Total,Member,32949328.37,4033,2589,,,,8169.9301686,,1.574424379,5189.1537489,
+Outreach,run1,Outreach,2017,Outbound Outreach,,Medical,Member,,,,0,0,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Outbound Outreach,,Pharmacy,Member,,,,0,0,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Outbound Outreach,,Total,Member,,,,,,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Total,,ER,Member,1534725.07,4033,2589,861,537,,380.54179767,2857.9610242,1.574424379,241.70217557,1815.2418512
+Outreach,run1,Outreach,2017,Total,,Inpatient,Member,4884438.94,4033,2589,337,193,,1211.1180114,25307.973782,1.574424379,769.24495554,16074.429563
+Outreach,run1,Outreach,2017,Total,,Medical,Member,22358189.36,4033,2589,35852,3503,,5543.8109001,6382.5833172,1.574424379,3521.1668303,4053.9154515
+Outreach,run1,Outreach,2017,Total,,Outpatient,Member,8900067.61,4033,2589,6850,1769,,2206.8107141,5031.1292312,1.574424379,1401.6619303,3195.53565
+Outreach,run1,Outreach,2017,Total,,Pharmacy,Member,10591139.01,4033,2589,43666,3307,,2626.1192685,3202.6425794,1.574424379,1667.9869186,2034.1672945
+Outreach,run1,Outreach,2017,Total,,Professional,Member,8573682.81,4033,2589,33779,3500,,2125.8821746,2449.62366,1.574424379,1350.2599445,1555.8852446
+Outreach,run1,Outreach,2017,Total,,Total,Member,32949328.37,4033,2589,,,,8169.9301686,,1.574424379,5189.1537489,
+Outreach,run1,Outreach,2017,Automated Outbound,,ER,Employee,831473.81,4029,2587,454,309,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Automated Outbound,,Inpatient,Employee,2557680.46,4029,2587,138,88,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Automated Outbound,,Medical,Employee,12139431.99,4029,2587,20291,2192,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Automated Outbound,,Outpatient,Employee,4817185.17,4029,2587,3736,1034,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Automated Outbound,,Pharmacy,Employee,4121126.58,4029,2587,25514,2092,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Automated Outbound,,Professional,Employee,4764566.36,4029,2587,19237,2191,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Automated Outbound,,Total,Employee,16260558.57,4029,2587,,,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Mailers,,ER,Employee,831473.81,4033,2589,454,309,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Mailers,,Inpatient,Employee,2557680.46,4033,2589,138,88,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Mailers,,Medical,Employee,12142294.78,4033,2589,20307,2194,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Mailers,,Outpatient,Employee,4817185.17,4033,2589,3736,1034,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Mailers,,Pharmacy,Employee,4123905.5,4033,2589,25544,2094,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Mailers,,Professional,Employee,4767429.15,4033,2589,19253,2193,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Mailers,,Total,Employee,16266200.28,4033,2589,,,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Outbound Outreach,,Medical,Employee,,,,0,0,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Outbound Outreach,,Pharmacy,Employee,,,,0,0,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Outbound Outreach,,Total,Employee,,,,,,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Total,,ER,Employee,831473.81,4033,2589,454,309,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Total,,Inpatient,Employee,2557680.46,4033,2589,138,88,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Total,,Medical,Employee,12142294.78,4033,2589,20307,2194,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Total,,Outpatient,Employee,4817185.17,4033,2589,3736,1034,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Total,,Pharmacy,Employee,4123905.5,4033,2589,25544,2094,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Total,,Professional,Employee,4767429.15,4033,2589,19253,2193,,,,1.574424379,,
+Outreach,run1,Outreach,2017,Total,,Total,Employee,16266200.28,4033,2589,,,,,,1.574424379,,
+Outreach,run1,Non-Outreach,2016,Total,,ER,Member,1481522.42,6729,2229,1032,753,,220.1697756,1967.4932537,0.807982626,272.49320532,2435.068763
+Outreach,run1,Non-Outreach,2016,Total,,Inpatient,Member,2948977.34,6729,2229,406,186,,438.2489731,15854.716882,0.807982626,542.39900587,19622.596293
+Outreach,run1,Non-Outreach,2016,Total,,Medical,Member,17212608.11,6729,2229,40663,5705,,2557.9741581,3017.1092217,0.807982626,3165.8776758,3734.1263595
+Outreach,run1,Non-Outreach,2016,Total,,Outpatient,Member,5974356.02,6729,2229,5236,2003,,887.85198692,2982.7039541,0.807982626,1098.8503445,3691.544667
+Outreach,run1,Non-Outreach,2016,Total,,Pharmacy,Member,4395986.83,6729,2229,33936,4820,,653.2897652,912.03046266,0.807982626,808.54432283,1128.774844
+Outreach,run1,Non-Outreach,2016,Total,,Professional,Member,8289274.75,6729,2229,39097,5702,,1231.8731981,1453.7486408,0.807982626,1524.6283255,1799.2325504
+Outreach,run1,Non-Outreach,2016,Total,,Total,Member,21608594.94,6729,2229,,,,3211.2639233,,0.807982626,3974.4219987,
+Outreach,run1,Non-Outreach,2016,Total,,ER,Employee,493535.04,6729,2229,285,212,,,,0.807982626,,
+Outreach,run1,Non-Outreach,2016,Total,,Inpatient,Employee,865884.15,6729,2229,119,52,,,,0.807982626,,
+Outreach,run1,Non-Outreach,2016,Total,,Medical,Employee,6251285.82,6729,2229,12980,1757,,,,0.807982626,,
+Outreach,run1,Non-Outreach,2016,Total,,Outpatient,Employee,2610982.29,6729,2229,1813,677,,,,0.807982626,,
+Outreach,run1,Non-Outreach,2016,Total,,Pharmacy,Employee,1717239.71,6729,2229,11894,1604,,,,0.807982626,,
+Outreach,run1,Non-Outreach,2016,Total,,Professional,Employee,2774419.38,6729,2229,12557,1757,,,,0.807982626,,
+Outreach,run1,Non-Outreach,2016,Total,,Total,Employee,7968525.53,6729,2229,,,,,,0.807982626,,
+Outreach,run1,Non-Outreach,2017,Total,,ER,Member,1469710.59,6821,2097,1086,781,,215.46849289,1881.8317414,0.7697534474,279.91884106,2444.7201215
+Outreach,run1,Non-Outreach,2017,Total,,Inpatient,Member,2981685.94,6821,2097,428,165,,437.13325612,18070.823879,0.7697534474,567.88736396,23476.119452
+Outreach,run1,Non-Outreach,2017,Total,,Medical,Member,18624422.19,6821,2097,44883,5965,,2730.4533338,3122.2836865,0.7697534474,3547.1790912,4056.2126707
+Outreach,run1,Non-Outreach,2017,Total,,Outpatient,Member,6424351.71,6821,2097,5709,2029,,941.84895323,3166.2650123,0.7697534474,1223.5722444,4113.3495708
+Outreach,run1,Non-Outreach,2017,Total,,Pharmacy,Member,4961924.03,6821,2097,35279,4986,,727.44817915,995.1712856,0.7697534474,945.0404953,1292.8442075
+Outreach,run1,Non-Outreach,2017,Total,,Professional,Member,9218384.54,6821,2097,43058,5960,,1351.4711245,1546.7088154,0.7697534474,1755.7194828,2009.3561396
+Outreach,run1,Non-Outreach,2017,Total,,Total,Member,23586346.22,6821,2097,,,,3457.901513,,0.7697534474,4492.2195865,
+Outreach,run1,Non-Outreach,2017,Total,,ER,Employee,408879.97,6821,2097,234,190,,,,0.7697534474,,
+Outreach,run1,Non-Outreach,2017,Total,,Inpatient,Employee,745676.55,6821,2097,79,42,,,,0.7697534474,,
+Outreach,run1,Non-Outreach,2017,Total,,Medical,Employee,5327428.55,6821,2097,13042,1734,,,,0.7697534474,,
+Outreach,run1,Non-Outreach,2017,Total,,Outpatient,Employee,1951184.63,6821,2097,1588,622,,,,0.7697534474,,
+Outreach,run1,Non-Outreach,2017,Total,,Pharmacy,Employee,2000663.1,6821,2097,11582,1532,,,,0.7697534474,,
+Outreach,run1,Non-Outreach,2017,Total,,Professional,Employee,2630567.37,6821,2097,12603,1730,,,,0.7697534474,,
+Outreach,run1,Non-Outreach,2017,Total,,Total,Employee,7328091.65,6821,2097,,,,,,0.7697534474,,
+Outreach,run1,Engaged,2016,Biometrics,,Medical,Member,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Biometrics,,Pharmacy,Member,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Biometrics,,Total,Member,,,,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,ER,Member,137953.58,200,165,95,43,,689.7679,3208.2227907,2.4853368675,277.53497283,1290.8603388
+Outreach,run1,Engaged,2016,HA Case Calls,,Inpatient,Member,780410.44,200,165,25,17,,3902.0522,45906.496471,2.4853368675,1570.0295002,18470.935297
+Outreach,run1,Engaged,2016,HA Case Calls,,Medical,Member,2102817.29,200,165,2821,185,,10514.08645,11366.579946,2.4853368675,4230.4472233,4573.4564576
+Outreach,run1,Engaged,2016,HA Case Calls,,Outpatient,Member,640943.15,200,165,622,114,,3204.71575,5622.3083333,2.4853368675,1289.4492461,2262.1916598
+Outreach,run1,Engaged,2016,HA Case Calls,,Pharmacy,Member,601585.34,200,165,3185,178,,3007.9267,3379.6929213,2.4853368675,1210.2692151,1359.8530507
+Outreach,run1,Engaged,2016,HA Case Calls,,Professional,Member,681463.7,200,165,2564,185,,3407.3185,3683.5875676,2.4853368675,1370.968477,1482.1280832
+Outreach,run1,Engaged,2016,HA Case Calls,,Total,Member,2704402.63,200,165,,,,13522.01315,,2.4853368675,5440.7164384,
+Outreach,run1,Engaged,2016,MEP Login,,ER,Member,4716.14,19,19,6,4,,248.21789474,1179.035,2.4853368675,99.872937944,474.39645523
+Outreach,run1,Engaged,2016,MEP Login,,Inpatient,Member,18278.06,19,19,3,1,,962.00315789,18278.06,2.4853368675,387.07153564,7354.3591772
+Outreach,run1,Engaged,2016,MEP Login,,Medical,Member,152378.47,19,19,196,16,,8019.9194737,9523.654375,2.4853368675,3226.8943412,3831.9370302
+Outreach,run1,Engaged,2016,MEP Login,,Outpatient,Member,64476.01,19,19,33,10,,3393.4742105,6447.601,2.4853368675,1365.3980895,2594.25637
+Outreach,run1,Engaged,2016,MEP Login,,Pharmacy,Member,75149.16,19,19,256,17,,3955.2189474,4420.5388235,2.4853368675,1591.4216697,1778.6477485
+Outreach,run1,Engaged,2016,MEP Login,,Professional,Member,69624.4,19,19,192,16,,3664.4421053,4351.525,2.4853368675,1474.4247161,1750.8793504
+Outreach,run1,Engaged,2016,MEP Login,,Total,Member,227527.63,19,19,,,,11975.138421,,2.4853368675,4818.3160109,
+Outreach,run1,Engaged,2016,Tier,High,ER,Member,137953.58,200,165,95,43,,689.7679,3208.2227907,2.4853368675,277.53497283,1290.8603388
+Outreach,run1,Engaged,2016,Tier,High,Inpatient,Member,780410.44,200,165,25,17,,3902.0522,45906.496471,2.4853368675,1570.0295002,18470.935297
+Outreach,run1,Engaged,2016,Tier,High,Medical,Member,2102817.29,200,165,2821,185,,10514.08645,11366.579946,2.4853368675,4230.4472233,4573.4564576
+Outreach,run1,Engaged,2016,Tier,High,Outpatient,Member,640943.15,200,165,622,114,,3204.71575,5622.3083333,2.4853368675,1289.4492461,2262.1916598
+Outreach,run1,Engaged,2016,Tier,High,Pharmacy,Member,601585.34,200,165,3185,178,,3007.9267,3379.6929213,2.4853368675,1210.2692151,1359.8530507
+Outreach,run1,Engaged,2016,Tier,High,Professional,Member,681463.7,200,165,2564,185,,3407.3185,3683.5875676,2.4853368675,1370.968477,1482.1280832
+Outreach,run1,Engaged,2016,Tier,High,Total,Member,2704402.63,200,165,,,,13522.01315,,2.4853368675,5440.7164384,
+Outreach,run1,Engaged,2016,Tier,Low,ER,Member,1103.22,13,13,3,2,,84.863076923,551.61,2.4853368675,34.145502782,221.94576808
+Outreach,run1,Engaged,2016,Tier,Low,Medical,Member,53120.78,13,13,134,12,,4086.2138462,4426.7316667,2.4853368675,1644.1287697,1781.1395005
+Outreach,run1,Engaged,2016,Tier,Low,Outpatient,Member,18349.7,13,13,22,8,,1411.5153846,2293.7125,2.4853368675,567.9372495,922.89803044
+Outreach,run1,Engaged,2016,Tier,Low,Pharmacy,Member,65453.47,13,13,187,12,,5034.8823077,5454.4558333,2.4853368675,2025.8349576,2194.6545374
+Outreach,run1,Engaged,2016,Tier,Low,Professional,Member,34771.08,13,13,131,12,,2674.6984615,2897.59,2.4853368675,1076.1915202,1165.8741468
+Outreach,run1,Engaged,2016,Tier,Low,Total,Member,118574.25,13,13,,,,9121.0961538,,2.4853368675,3669.9637273,
+Outreach,run1,Engaged,2016,Total,,ER,Member,139056.8,213,178,98,45,,652.84882629,3090.1511111,2.4853368675,262.68021644,1243.3530245
+Outreach,run1,Engaged,2016,Total,,Inpatient,Member,780410.44,213,178,25,17,,3663.8987793,45906.496471,2.4853368675,1474.2061035,18470.935297
+Outreach,run1,Engaged,2016,Total,,Medical,Member,2155938.07,213,178,2955,197,,10121.774977,10943.848071,2.4853368675,4072.5968012,4403.3660846
+Outreach,run1,Engaged,2016,Total,,Outpatient,Member,659292.85,213,178,644,122,,3095.2715962,5404.0397541,2.4853368675,1245.4133026,2174.3691267
+Outreach,run1,Engaged,2016,Total,,Pharmacy,Member,667038.81,213,178,3372,190,,3131.6376056,3510.7305789,2.4853368675,1260.0455281,1412.5773552
+Outreach,run1,Engaged,2016,Total,,Professional,Member,716234.78,213,178,2695,197,,3362.6046009,3635.7095431,2.4853368675,1352.9773951,1462.863884
+Outreach,run1,Engaged,2016,Total,,Total,Member,2822976.88,213,178,,,,13253.412582,,2.4853368675,5332.6423293,
+Outreach,run1,Engaged,2016,Wellness Challenges,,Medical,Member,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Challenges,,Pharmacy,Member,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Challenges,,Total,Member,,,,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Commitments,,Medical,Member,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Commitments,,Pharmacy,Member,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Commitments,,Total,Member,,,,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Tracker,,Medical,Member,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Tracker,,Pharmacy,Member,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Tracker,,Total,Member,,,,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Workshops,,Medical,Member,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Workshops,,Pharmacy,Member,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Workshops,,Total,Member,,,,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Workshops,,Medical,Member,,,,0,0,1,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Workshops,,Pharmacy,Member,,,,0,0,1,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Workshops,,Total,Member,,,,,,1,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Challenges,,Medical,Member,,,,0,0,2,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Challenges,,Pharmacy,Member,,,,0,0,2,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Challenges,,Total,Member,,,,,,2,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Tracker,,Medical,Member,,,,0,0,3,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Tracker,,Pharmacy,Member,,,,0,0,3,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Tracker,,Total,Member,,,,,,3,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,ER,Member,137953.58,200,165,95,43,4,689.7679,3208.2227907,2.4853368675,277.53497283,1290.8603388
+Outreach,run1,Engaged,2016,HA Case Calls,,Inpatient,Member,780410.44,200,165,25,17,4,3902.0522,45906.496471,2.4853368675,1570.0295002,18470.935297
+Outreach,run1,Engaged,2016,HA Case Calls,,Medical,Member,2102817.29,200,165,2821,185,4,10514.08645,11366.579946,2.4853368675,4230.4472233,4573.4564576
+Outreach,run1,Engaged,2016,HA Case Calls,,Outpatient,Member,640943.15,200,165,622,114,4,3204.71575,5622.3083333,2.4853368675,1289.4492461,2262.1916598
+Outreach,run1,Engaged,2016,HA Case Calls,,Pharmacy,Member,601585.34,200,165,3185,178,4,3007.9267,3379.6929213,2.4853368675,1210.2692151,1359.8530507
+Outreach,run1,Engaged,2016,HA Case Calls,,Professional,Member,681463.7,200,165,2564,185,4,3407.3185,3683.5875676,2.4853368675,1370.968477,1482.1280832
+Outreach,run1,Engaged,2016,HA Case Calls,,Total,Member,2704402.63,200,165,,,4,13522.01315,,2.4853368675,5440.7164384,
+Outreach,run1,Engaged,2016,Biometrics,,Medical,Member,,,,0,0,5,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Biometrics,,Pharmacy,Member,,,,0,0,5,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Biometrics,,Total,Member,,,,,,5,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Commitments,,Medical,Member,,,,0,0,6,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Commitments,,Pharmacy,Member,,,,0,0,6,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Commitments,,Total,Member,,,,,,6,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,ER,Member,1103.22,13,13,3,2,7,84.863076923,551.61,2.4853368675,34.145502782,221.94576808
+Outreach,run1,Engaged,2016,MEP Login,,Medical,Member,53120.78,13,13,134,12,7,4086.2138462,4426.7316667,2.4853368675,1644.1287697,1781.1395005
+Outreach,run1,Engaged,2016,MEP Login,,Outpatient,Member,18349.7,13,13,22,8,7,1411.5153846,2293.7125,2.4853368675,567.9372495,922.89803044
+Outreach,run1,Engaged,2016,MEP Login,,Pharmacy,Member,65453.47,13,13,187,12,7,5034.8823077,5454.4558333,2.4853368675,2025.8349576,2194.6545374
+Outreach,run1,Engaged,2016,MEP Login,,Professional,Member,34771.08,13,13,131,12,7,2674.6984615,2897.59,2.4853368675,1076.1915202,1165.8741468
+Outreach,run1,Engaged,2016,MEP Login,,Total,Member,118574.25,13,13,,,7,9121.0961538,,2.4853368675,3669.9637273,
+Outreach,run1,Engaged,2016,Biometrics,,Medical,Employee,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Biometrics,,Pharmacy,Employee,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Biometrics,,Total,Employee,,,,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,ER,Employee,107016.17,200,165,76,32,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,Inpatient,Employee,408108.3,200,165,16,12,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,Medical,Employee,1279176.92,200,165,1905,150,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,Outpatient,Employee,419381.11,200,165,395,89,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,Pharmacy,Employee,350150.26,200,165,2287,144,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,Professional,Employee,451687.51,200,165,1761,150,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,Total,Employee,1629327.18,200,165,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,ER,Employee,4716.14,19,19,6,4,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,Inpatient,Employee,18278.06,19,19,3,1,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,Medical,Employee,152378.47,19,19,196,16,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,Outpatient,Employee,64476.01,19,19,33,10,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,Pharmacy,Employee,75149.16,19,19,256,17,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,Professional,Employee,69624.4,19,19,192,16,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,Total,Employee,227527.63,19,19,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Tier,High,ER,Employee,107016.17,200,165,76,32,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Tier,High,Inpatient,Employee,408108.3,200,165,16,12,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Tier,High,Medical,Employee,1279176.92,200,165,1905,150,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Tier,High,Outpatient,Employee,419381.11,200,165,395,89,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Tier,High,Pharmacy,Employee,350150.26,200,165,2287,144,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Tier,High,Professional,Employee,451687.51,200,165,1761,150,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Tier,High,Total,Employee,1629327.18,200,165,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Tier,Low,ER,Employee,1103.22,13,13,3,2,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Tier,Low,Medical,Employee,53120.78,13,13,134,12,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Tier,Low,Outpatient,Employee,18349.7,13,13,22,8,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Tier,Low,Pharmacy,Employee,65453.47,13,13,187,12,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Tier,Low,Professional,Employee,34771.08,13,13,131,12,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Tier,Low,Total,Employee,118574.25,13,13,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Total,,ER,Employee,108119.39,213,178,79,34,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Total,,Inpatient,Employee,408108.3,213,178,16,12,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Total,,Medical,Employee,1332297.7,213,178,2039,162,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Total,,Outpatient,Employee,437730.81,213,178,417,97,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Total,,Pharmacy,Employee,415603.73,213,178,2474,156,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Total,,Professional,Employee,486458.59,213,178,1892,162,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Total,,Total,Employee,1747901.43,213,178,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Challenges,,Medical,Employee,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Challenges,,Pharmacy,Employee,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Challenges,,Total,Employee,,,,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Commitments,,Medical,Employee,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Commitments,,Pharmacy,Employee,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Commitments,,Total,Employee,,,,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Tracker,,Medical,Employee,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Tracker,,Pharmacy,Employee,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Tracker,,Total,Employee,,,,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Workshops,,Medical,Employee,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Workshops,,Pharmacy,Employee,,,,0,0,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Workshops,,Total,Employee,,,,,,,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Workshops,,Medical,Employee,,,,0,0,1,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Workshops,,Pharmacy,Employee,,,,0,0,1,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Workshops,,Total,Employee,,,,,,1,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Challenges,,Medical,Employee,,,,0,0,2,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Challenges,,Pharmacy,Employee,,,,0,0,2,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Challenges,,Total,Employee,,,,,,2,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Tracker,,Medical,Employee,,,,0,0,3,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Tracker,,Pharmacy,Employee,,,,0,0,3,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Tracker,,Total,Employee,,,,,,3,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,ER,Employee,107016.17,200,165,76,32,4,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,Inpatient,Employee,408108.3,200,165,16,12,4,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,Medical,Employee,1279176.92,200,165,1905,150,4,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,Outpatient,Employee,419381.11,200,165,395,89,4,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,Pharmacy,Employee,350150.26,200,165,2287,144,4,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,Professional,Employee,451687.51,200,165,1761,150,4,,,2.4853368675,,
+Outreach,run1,Engaged,2016,HA Case Calls,,Total,Employee,1629327.18,200,165,,,4,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Biometrics,,Medical,Employee,,,,0,0,5,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Biometrics,,Pharmacy,Employee,,,,0,0,5,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Biometrics,,Total,Employee,,,,,,5,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Commitments,,Medical,Employee,,,,0,0,6,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Commitments,,Pharmacy,Employee,,,,0,0,6,,,2.4853368675,,
+Outreach,run1,Engaged,2016,Wellness Commitments,,Total,Employee,,,,,,6,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,ER,Employee,1103.22,13,13,3,2,7,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,Medical,Employee,53120.78,13,13,134,12,7,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,Outpatient,Employee,18349.7,13,13,22,8,7,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,Pharmacy,Employee,65453.47,13,13,187,12,7,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,Professional,Employee,34771.08,13,13,131,12,7,,,2.4853368675,,
+Outreach,run1,Engaged,2016,MEP Login,,Total,Employee,118574.25,13,13,,,7,,,2.4853368675,,
+Outreach,run1,Engaged,2017,Biometrics,,Medical,Member,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Biometrics,,Pharmacy,Member,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Biometrics,,Total,Member,,,,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,ER,Member,142241.87,216,178,73,51,,658.52717593,2789.0562745,2.4612846445,267.55425359,1133.1709564
+Outreach,run1,Engaged,2017,HA Case Calls,,Inpatient,Member,739552.43,216,178,68,23,,3423.8538426,32154.453478,2.4612846445,1391.0840626,13064.093806
+Outreach,run1,Engaged,2017,HA Case Calls,,Medical,Member,2865134.45,216,178,3666,204,,13264.511343,14044.776716,2.4612846445,5389.2634369,5706.2789332
+Outreach,run1,Engaged,2017,HA Case Calls,,Outpatient,Member,1136150.99,216,178,842,126,,5259.958287,9017.0713492,2.4612846445,2137.078415,3663.5629972
+Outreach,run1,Engaged,2017,HA Case Calls,,Pharmacy,Member,581156.41,216,178,3305,197,,2690.5389352,2950.0325381,2.4612846445,1093.14416,1198.5743074
+Outreach,run1,Engaged,2017,HA Case Calls,,Professional,Member,989431.03,216,178,3321,204,,4580.699213,4850.1521078,2.4612846445,1861.1009593,1970.5774863
+Outreach,run1,Engaged,2017,HA Case Calls,,Total,Member,3446290.86,216,178,,,,15955.050278,,2.4612846445,6482.4075969,
+Outreach,run1,Engaged,2017,MEP Login,,ER,Member,15921.26,19,19,9,3,,837.96105263,5307.0866667,2.4612846445,340.45678321,2156.2262937
+Outreach,run1,Engaged,2017,MEP Login,,Inpatient,Member,32370.62,19,19,1,1,,1703.7168421,32370.62,2.4612846445,692.20634269,13151.920511
+Outreach,run1,Engaged,2017,MEP Login,,Medical,Member,227820.21,19,19,243,17,,11990.537368,13401.188824,2.4612846445,4871.658138,5444.7943896
+Outreach,run1,Engaged,2017,MEP Login,,Outpatient,Member,143894.17,19,19,53,11,,7573.3773684,13081.288182,2.4612846445,3077.0018353,5314.8213519
+Outreach,run1,Engaged,2017,MEP Login,,Pharmacy,Member,37485.54,19,19,278,14,,1972.9231579,2677.5385714,2.4612846445,801.58268662,1087.8622176
+Outreach,run1,Engaged,2017,MEP Login,,Professional,Member,51555.42,19,19,229,17,,2713.4431579,3032.6717647,2.4612846445,1102.44996,1232.1499553
+Outreach,run1,Engaged,2017,MEP Login,,Total,Member,265305.75,19,19,,,,13963.460526,,2.4612846445,5673.2408246,
+Outreach,run1,Engaged,2017,Tier,High,ER,Member,142241.87,216,178,73,51,,658.52717593,2789.0562745,2.4612846445,267.55425359,1133.1709564
+Outreach,run1,Engaged,2017,Tier,High,Inpatient,Member,739552.43,216,178,68,23,,3423.8538426,32154.453478,2.4612846445,1391.0840626,13064.093806
+Outreach,run1,Engaged,2017,Tier,High,Medical,Member,2865134.45,216,178,3666,204,,13264.511343,14044.776716,2.4612846445,5389.2634369,5706.2789332
+Outreach,run1,Engaged,2017,Tier,High,Outpatient,Member,1136150.99,216,178,842,126,,5259.958287,9017.0713492,2.4612846445,2137.078415,3663.5629972
+Outreach,run1,Engaged,2017,Tier,High,Pharmacy,Member,581156.41,216,178,3305,197,,2690.5389352,2950.0325381,2.4612846445,1093.14416,1198.5743074
+Outreach,run1,Engaged,2017,Tier,High,Professional,Member,989431.03,216,178,3321,204,,4580.699213,4850.1521078,2.4612846445,1861.1009593,1970.5774863
+Outreach,run1,Engaged,2017,Tier,High,Total,Member,3446290.86,216,178,,,,15955.050278,,2.4612846445,6482.4075969,
+Outreach,run1,Engaged,2017,Tier,Low,Medical,Member,36583.7,12,12,127,10,,3048.6416667,3658.37,2.4612846445,1238.638397,1486.3660764
+Outreach,run1,Engaged,2017,Tier,Low,Outpatient,Member,17317.32,12,12,21,6,,1443.11,2886.22,2.4612846445,586.32389521,1172.6477904
+Outreach,run1,Engaged,2017,Tier,Low,Pharmacy,Member,21160.93,12,12,135,8,,1763.4108333,2645.11625,2.4612846445,716.45952745,1074.6892912
+Outreach,run1,Engaged,2017,Tier,Low,Professional,Member,19266.38,12,12,120,10,,1605.5316667,1926.638,2.4612846445,652.3145018,782.77740216
+Outreach,run1,Engaged,2017,Tier,Low,Total,Member,57744.63,12,12,,,,4812.0525,,2.4612846445,1955.0979245,
+Outreach,run1,Engaged,2017,Total,,ER,Member,142241.87,228,190,73,51,,623.86785088,2789.0562745,2.4612846445,253.47245077,1133.1709564
+Outreach,run1,Engaged,2017,Total,,Inpatient,Member,739552.43,228,190,68,23,,3243.6510088,32154.453478,2.4612846445,1317.869112,13064.093806
+Outreach,run1,Engaged,2017,Total,,Medical,Member,2901718.15,228,190,3793,214,,12726.833991,13559.430607,2.4612846445,5170.8094875,5509.0867437
+Outreach,run1,Engaged,2017,Total,,Outpatient,Member,1153468.31,228,190,863,132,,5059.0715351,8738.3962879,2.4612846445,2055.4597561,3550.3395787
+Outreach,run1,Engaged,2017,Total,,Pharmacy,Member,602317.34,228,190,3440,205,,2641.7427193,2938.1333659,2.4612846445,1073.318653,1193.7397702
+Outreach,run1,Engaged,2017,Total,,Professional,Member,1008697.41,228,190,3441,214,,4424.1114474,4713.5392991,2.4612846445,1797.4806194,1915.0728095
+Outreach,run1,Engaged,2017,Total,,Total,Member,3504035.49,228,190,,,,15368.576711,,2.4612846445,6244.1281405,
+Outreach,run1,Engaged,2017,Wellness Challenges,,Medical,Member,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Challenges,,Pharmacy,Member,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Challenges,,Total,Member,,,,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Commitments,,Medical,Member,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Commitments,,Pharmacy,Member,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Commitments,,Total,Member,,,,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Tracker,,Medical,Member,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Tracker,,Pharmacy,Member,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Tracker,,Total,Member,,,,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Workshops,,Medical,Member,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Workshops,,Pharmacy,Member,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Workshops,,Total,Member,,,,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Workshops,,Medical,Member,,,,0,0,1,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Workshops,,Pharmacy,Member,,,,0,0,1,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Workshops,,Total,Member,,,,,,1,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Challenges,,Medical,Member,,,,0,0,2,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Challenges,,Pharmacy,Member,,,,0,0,2,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Challenges,,Total,Member,,,,,,2,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Tracker,,Medical,Member,,,,0,0,3,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Tracker,,Pharmacy,Member,,,,0,0,3,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Tracker,,Total,Member,,,,,,3,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,ER,Member,142241.87,216,178,73,51,4,658.52717593,2789.0562745,2.4612846445,267.55425359,1133.1709564
+Outreach,run1,Engaged,2017,HA Case Calls,,Inpatient,Member,739552.43,216,178,68,23,4,3423.8538426,32154.453478,2.4612846445,1391.0840626,13064.093806
+Outreach,run1,Engaged,2017,HA Case Calls,,Medical,Member,2865134.45,216,178,3666,204,4,13264.511343,14044.776716,2.4612846445,5389.2634369,5706.2789332
+Outreach,run1,Engaged,2017,HA Case Calls,,Outpatient,Member,1136150.99,216,178,842,126,4,5259.958287,9017.0713492,2.4612846445,2137.078415,3663.5629972
+Outreach,run1,Engaged,2017,HA Case Calls,,Pharmacy,Member,581156.41,216,178,3305,197,4,2690.5389352,2950.0325381,2.4612846445,1093.14416,1198.5743074
+Outreach,run1,Engaged,2017,HA Case Calls,,Professional,Member,989431.03,216,178,3321,204,4,4580.699213,4850.1521078,2.4612846445,1861.1009593,1970.5774863
+Outreach,run1,Engaged,2017,HA Case Calls,,Total,Member,3446290.86,216,178,,,4,15955.050278,,2.4612846445,6482.4075969,
+Outreach,run1,Engaged,2017,Biometrics,,Medical,Member,,,,0,0,5,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Biometrics,,Pharmacy,Member,,,,0,0,5,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Biometrics,,Total,Member,,,,,,5,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Commitments,,Medical,Member,,,,0,0,6,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Commitments,,Pharmacy,Member,,,,0,0,6,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Commitments,,Total,Member,,,,,,6,,,2.4612846445,,
+Outreach,run1,Engaged,2017,MEP Login,,Medical,Member,36583.7,12,12,127,10,7,3048.6416667,3658.37,2.4612846445,1238.638397,1486.3660764
+Outreach,run1,Engaged,2017,MEP Login,,Outpatient,Member,17317.32,12,12,21,6,7,1443.11,2886.22,2.4612846445,586.32389521,1172.6477904
+Outreach,run1,Engaged,2017,MEP Login,,Pharmacy,Member,21160.93,12,12,135,8,7,1763.4108333,2645.11625,2.4612846445,716.45952745,1074.6892912
+Outreach,run1,Engaged,2017,MEP Login,,Professional,Member,19266.38,12,12,120,10,7,1605.5316667,1926.638,2.4612846445,652.3145018,782.77740216
+Outreach,run1,Engaged,2017,MEP Login,,Total,Member,57744.63,12,12,,,7,4812.0525,,2.4612846445,1955.0979245,
+Outreach,run1,Engaged,2017,Biometrics,,Medical,Employee,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Biometrics,,Pharmacy,Employee,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Biometrics,,Total,Employee,,,,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,ER,Employee,130588.66,216,178,63,41,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,Inpatient,Employee,561111.3,216,178,22,15,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,Medical,Employee,2104046.82,216,178,2563,166,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,Outpatient,Employee,858236.02,216,178,554,101,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,Pharmacy,Employee,355540.06,216,178,2417,162,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,Professional,Employee,684699.5,216,178,2370,166,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,Total,Employee,2459586.88,216,178,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,MEP Login,,ER,Employee,15921.26,19,19,9,3,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,MEP Login,,Inpatient,Employee,32370.62,19,19,1,1,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,MEP Login,,Medical,Employee,227820.21,19,19,243,17,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,MEP Login,,Outpatient,Employee,143894.17,19,19,53,11,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,MEP Login,,Pharmacy,Employee,37485.54,19,19,278,14,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,MEP Login,,Professional,Employee,51555.42,19,19,229,17,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,MEP Login,,Total,Employee,265305.75,19,19,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Tier,High,ER,Employee,130588.66,216,178,63,41,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Tier,High,Inpatient,Employee,561111.3,216,178,22,15,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Tier,High,Medical,Employee,2104046.82,216,178,2563,166,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Tier,High,Outpatient,Employee,858236.02,216,178,554,101,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Tier,High,Pharmacy,Employee,355540.06,216,178,2417,162,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Tier,High,Professional,Employee,684699.5,216,178,2370,166,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Tier,High,Total,Employee,2459586.88,216,178,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Tier,Low,Medical,Employee,36583.7,12,12,127,10,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Tier,Low,Outpatient,Employee,17317.32,12,12,21,6,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Tier,Low,Pharmacy,Employee,21160.93,12,12,135,8,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Tier,Low,Professional,Employee,19266.38,12,12,120,10,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Tier,Low,Total,Employee,57744.63,12,12,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Total,,ER,Employee,130588.66,228,190,63,41,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Total,,Inpatient,Employee,561111.3,228,190,22,15,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Total,,Medical,Employee,2140630.52,228,190,2690,176,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Total,,Outpatient,Employee,875553.34,228,190,575,107,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Total,,Pharmacy,Employee,376700.99,228,190,2552,170,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Total,,Professional,Employee,703965.88,228,190,2490,176,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Total,,Total,Employee,2517331.51,228,190,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Challenges,,Medical,Employee,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Challenges,,Pharmacy,Employee,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Challenges,,Total,Employee,,,,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Commitments,,Medical,Employee,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Commitments,,Pharmacy,Employee,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Commitments,,Total,Employee,,,,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Tracker,,Medical,Employee,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Tracker,,Pharmacy,Employee,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Tracker,,Total,Employee,,,,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Workshops,,Medical,Employee,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Workshops,,Pharmacy,Employee,,,,0,0,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Workshops,,Total,Employee,,,,,,,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Workshops,,Medical,Employee,,,,0,0,1,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Workshops,,Pharmacy,Employee,,,,0,0,1,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Workshops,,Total,Employee,,,,,,1,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Challenges,,Medical,Employee,,,,0,0,2,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Challenges,,Pharmacy,Employee,,,,0,0,2,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Challenges,,Total,Employee,,,,,,2,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Tracker,,Medical,Employee,,,,0,0,3,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Tracker,,Pharmacy,Employee,,,,0,0,3,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Tracker,,Total,Employee,,,,,,3,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,ER,Employee,130588.66,216,178,63,41,4,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,Inpatient,Employee,561111.3,216,178,22,15,4,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,Medical,Employee,2104046.82,216,178,2563,166,4,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,Outpatient,Employee,858236.02,216,178,554,101,4,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,Pharmacy,Employee,355540.06,216,178,2417,162,4,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,Professional,Employee,684699.5,216,178,2370,166,4,,,2.4612846445,,
+Outreach,run1,Engaged,2017,HA Case Calls,,Total,Employee,2459586.88,216,178,,,4,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Biometrics,,Medical,Employee,,,,0,0,5,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Biometrics,,Pharmacy,Employee,,,,0,0,5,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Biometrics,,Total,Employee,,,,,,5,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Commitments,,Medical,Employee,,,,0,0,6,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Commitments,,Pharmacy,Employee,,,,0,0,6,,,2.4612846445,,
+Outreach,run1,Engaged,2017,Wellness Commitments,,Total,Employee,,,,,,6,,,2.4612846445,,
+Outreach,run1,Engaged,2017,MEP Login,,Medical,Employee,36583.7,12,12,127,10,7,,,2.4612846445,,
+Outreach,run1,Engaged,2017,MEP Login,,Outpatient,Employee,17317.32,12,12,21,6,7,,,2.4612846445,,
+Outreach,run1,Engaged,2017,MEP Login,,Pharmacy,Employee,21160.93,12,12,135,8,7,,,2.4612846445,,
+Outreach,run1,Engaged,2017,MEP Login,,Professional,Employee,19266.38,12,12,120,10,7,,,2.4612846445,,
+Outreach,run1,Engaged,2017,MEP Login,,Total,Employee,57744.63,12,12,,,7,,,2.4612846445,,
+Outreach,run1,Non-Engaged,2016,Total,,ER,Member,1261081.88,3319,2069,719,413,,379.95838506,3053.4670218,1.6368157454,232.1326552,1865.4922097
+Outreach,run1,Non-Engaged,2016,Total,,Inpatient,Member,3503189.6,3319,2069,192,143,,1055.4955107,24497.829371,1.6368157454,644.84687031,14966.760577
+Outreach,run1,Non-Engaged,2016,Total,,Medical,Member,15539643.32,3319,2069,28600,2820,,4682.0257065,5510.5118156,1.6368157454,2860.447622,3366.604843
+Outreach,run1,Non-Engaged,2016,Total,,Outpatient,Member,5342579.33,3319,2069,4890,1433,,1609.6954896,3728.2479623,1.6368157454,983.43108815,2277.7444393
+Outreach,run1,Non-Engaged,2016,Total,,Pharmacy,Member,9521310.15,3319,2069,36323,2695,,2868.7285779,3532.9536735,1.6368157454,1752.6276772,2158.4308945
+Outreach,run1,Non-Engaged,2016,Total,,Professional,Member,6693874.39,3319,2069,27095,2815,,2016.8347062,2377.9305115,1.6368157454,1232.1696635,1452.7783706
+Outreach,run1,Non-Engaged,2016,Total,,Total,Member,25060953.47,3319,2069,,,,7550.7542844,,1.6368157454,4613.0752992,
+Outreach,run1,Non-Engaged,2016,Total,,ER,Employee,580795.71,3319,2069,307,221,,,,1.6368157454,,
+Outreach,run1,Non-Engaged,2016,Total,,Inpatient,Employee,1763550.69,3319,2069,82,65,,,,1.6368157454,,
+Outreach,run1,Non-Engaged,2016,Total,,Medical,Employee,8112544.62,3319,2069,15702,1715,,,,1.6368157454,,
+Outreach,run1,Non-Engaged,2016,Total,,Outpatient,Employee,2749089.78,3319,2069,2653,794,,,,1.6368157454,,
+Outreach,run1,Non-Engaged,2016,Total,,Pharmacy,Employee,2862615.5,3319,2069,19706,1652,,,,1.6368157454,,
+Outreach,run1,Non-Engaged,2016,Total,,Professional,Employee,3599904.15,3319,2069,14778,1711,,,,1.6368157454,,
+Outreach,run1,Non-Engaged,2016,Total,,Total,Employee,10975160.12,3319,2069,,,,,,1.6368157454,,
+Outreach,run1,Non-Engaged,2017,Total,,ER,Member,1392483.2,3805,2399,788,486,,365.96141919,2865.1917695,1.5212826863,240.56108866,1883.4052312
+Outreach,run1,Non-Engaged,2017,Total,,Inpatient,Member,4144886.51,3805,2399,269,170,,1089.3262838,24381.685353,1.5212826863,716.05776732,16027.057674
+Outreach,run1,Non-Engaged,2017,Total,,Medical,Member,19456471.21,3805,2399,32059,3289,,5113.3958502,5915.619097,1.5212826863,3361.2397592,3888.5732088
+Outreach,run1,Non-Engaged,2017,Total,,Outpatient,Member,7746599.3,3805,2399,5987,1637,,2035.8999474,4732.1926084,1.5212826863,1338.2785236,3110.6596104
+Outreach,run1,Non-Engaged,2017,Total,,Pharmacy,Member,9988821.67,3805,2399,40226,3102,,2625.1830933,3220.12304,1.5212826863,1725.6379218,2116.7157616
+Outreach,run1,Non-Engaged,2017,Total,,Professional,Member,7564985.4,3805,2399,30338,3286,,1988.1696189,2302.1866707,1.5212826863,1306.9034682,1513.3194451
+Outreach,run1,Non-Engaged,2017,Total,,Total,Member,29445292.88,3805,2399,,,,7738.5789435,,1.5212826863,5086.877681,
+Outreach,run1,Non-Engaged,2017,Total,,ER,Employee,700885.15,3805,2399,391,268,,,,1.5212826863,,
+Outreach,run1,Non-Engaged,2017,Total,,Inpatient,Employee,1996569.16,3805,2399,116,73,,,,1.5212826863,,
+Outreach,run1,Non-Engaged,2017,Total,,Medical,Employee,10001664.26,3805,2399,17617,2018,,,,1.5212826863,,
+Outreach,run1,Non-Engaged,2017,Total,,Outpatient,Employee,3941631.83,3805,2399,3161,927,,,,1.5212826863,,
+Outreach,run1,Non-Engaged,2017,Total,,Pharmacy,Employee,3747204.51,3805,2399,22992,1924,,,,1.5212826863,,
+Outreach,run1,Non-Engaged,2017,Total,,Professional,Employee,4063463.27,3805,2399,16763,2017,,,,1.5212826863,,
+Outreach,run1,Non-Engaged,2017,Total,,Total,Employee,13748868.77,3805,2399,,,,,,1.5212826863,,
+Total,run3,Engaged,2016,Biometrics,,,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Biometrics,,Medical,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Biometrics,,Pharmacy,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Biometrics,,Total,Member,,,,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,ER,Member,232662.85,439,317,144,79,,529.98371298,2945.0993671,1.8656748587,284.07078034,1578.5705389
+Total,run3,Engaged,2016,HA Case Calls,,Inpatient,Member,1016974.58,439,317,66,31,,2316.5707973,32805.631613,1.8656748587,1241.6798063,17583.788225
+Total,run3,Engaged,2016,HA Case Calls,,Medical,Member,3361443.73,439,317,5110,403,,7657.047221,8341.0514392,1.8656748587,4104.1702337,4470.7958625
+Total,run3,Engaged,2016,HA Case Calls,,Outpatient,Member,1192806.86,439,317,995,218,,2717.0999089,5471.5911009,1.8656748587,1456.36304,2932.7677732
+Total,run3,Engaged,2016,HA Case Calls,,Pharmacy,Member,853882.32,439,317,4685,371,,1945.0622323,2301.5695957,1.8656748587,1042.5515589,1233.6391762
+Total,run3,Engaged,2016,HA Case Calls,,Professional,Member,1151662.29,439,317,4730,403,,2623.3765148,2857.722804,1.8656748587,1406.1273874,1531.7367818
+Total,run3,Engaged,2016,HA Case Calls,,Total,Member,4215326.05,439,317,,,,9602.1094533,,1.8656748587,5146.7217926,
+Total,run3,Engaged,2016,MEP Login,,ER,Member,7362.71,38,38,7,5,,193.75552632,1472.542,1.8656748587,103.85278303,789.28115106
+Total,run3,Engaged,2016,MEP Login,,Inpatient,Member,18278.06,38,38,5,2,,481.00157895,9139.03,1.8656748587,257.81640177,4898.5116336
+Total,run3,Engaged,2016,MEP Login,,Medical,Member,231344.06,38,38,344,34,,6088.0015789,6804.2370588,1.8656748587,3263.1632197,3647.064775
+Total,run3,Engaged,2016,MEP Login,,Outpatient,Member,105911.38,38,38,55,15,,2787.1415789,7060.7586667,1.8656748587,1493.9053104,3784.5601197
+Total,run3,Engaged,2016,MEP Login,,Pharmacy,Member,87764.78,38,38,385,32,,2309.5994737,2742.649375,1.8656748587,1237.9431833,1470.0575302
+Total,run3,Engaged,2016,MEP Login,,Professional,Member,107154.62,38,38,336,34,,2819.8584211,3151.6064706,1.8656748587,1511.4415075,1689.2581555
+Total,run3,Engaged,2016,MEP Login,,Total,Member,319108.84,38,38,,,,8397.6010526,,1.8656748587,4501.1064031,
+Total,run3,Engaged,2016,Tier,High,ER,Member,232662.85,439,317,144,79,,529.98371298,2945.0993671,1.8656748587,284.07078034,1578.5705389
+Total,run3,Engaged,2016,Tier,High,Inpatient,Member,1016974.58,439,317,66,31,,2316.5707973,32805.631613,1.8656748587,1241.6798063,17583.788225
+Total,run3,Engaged,2016,Tier,High,Medical,Member,3361443.73,439,317,5110,403,,7657.047221,8341.0514392,1.8656748587,4104.1702337,4470.7958625
+Total,run3,Engaged,2016,Tier,High,Outpatient,Member,1192806.86,439,317,995,218,,2717.0999089,5471.5911009,1.8656748587,1456.36304,2932.7677732
+Total,run3,Engaged,2016,Tier,High,Pharmacy,Member,853882.32,439,317,4685,371,,1945.0622323,2301.5695957,1.8656748587,1042.5515589,1233.6391762
+Total,run3,Engaged,2016,Tier,High,Professional,Member,1151662.29,439,317,4730,403,,2623.3765148,2857.722804,1.8656748587,1406.1273874,1531.7367818
+Total,run3,Engaged,2016,Tier,High,Total,Member,4215326.05,439,317,,,,9602.1094533,,1.8656748587,5146.7217926,
+Total,run3,Engaged,2016,Tier,Low,ER,Member,1103.22,25,25,3,2,,44.1288,551.61,1.8656748587,23.652996016,295.6624502
+Total,run3,Engaged,2016,Tier,Low,Inpatient,Member,0,25,25,2,1,,0,0,1.8656748587,0,0
+Total,run3,Engaged,2016,Tier,Low,Medical,Member,78584.25,25,25,182,23,,3143.37,3416.7065217,1.8656748587,1684.8434149,1831.3515379
+Total,run3,Engaged,2016,Tier,Low,Outpatient,Member,25208.53,25,25,28,10,,1008.3412,2520.853,1.8656748587,540.46995128,1351.1748782
+Total,run3,Engaged,2016,Tier,Low,Pharmacy,Member,75378.62,25,25,254,21,,3015.1448,3589.4580952,1.8656748587,1616.1148262,1923.9462216
+Total,run3,Engaged,2016,Tier,Low,Professional,Member,53375.72,25,25,179,23,,2135.0288,2320.6834783,1.8656748587,1144.3734636,1243.8841995
+Total,run3,Engaged,2016,Tier,Low,Total,Member,153962.87,25,25,,,,6158.5148,,1.8656748587,3300.958241,
+Total,run3,Engaged,2016,Total,,ER,Member,233766.07,464,342,147,81,,503.80618534,2886.0008642,1.8656748587,270.03964972,1546.8937959
+Total,run3,Engaged,2016,Total,,Inpatient,Member,1016974.58,464,342,68,32,,2191.7555603,31780.455625,1.8656748587,1174.7789547,17034.294843
+Total,run3,Engaged,2016,Total,,Medical,Member,3440027.98,464,342,5292,426,,7413.8534052,8075.1830516,1.8656748587,3973.8185732,4328.2906525
+Total,run3,Engaged,2016,Total,,Outpatient,Member,1218015.39,464,342,1023,228,,2625.0331681,5342.1727632,1.8656748587,1407.015352,2863.3996638
+Total,run3,Engaged,2016,Total,,Pharmacy,Member,929260.94,464,342,4939,392,,2002.7175431,2370.5636224,1.8656748587,1073.4547522,1270.6199107
+Total,run3,Engaged,2016,Total,,Professional,Member,1205038.01,464,342,4909,426,,2597.0646767,2828.727723,1.8656748587,1392.0242665,1516.1954452
+Total,run3,Engaged,2016,Total,,Total,Member,4369288.92,464,342,,,,9416.5709483,,1.8656748587,5047.2733254,
+Total,run3,Engaged,2016,Wellness Challenges,,,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,Medical,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,Pharmacy,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,Total,Member,,,,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,Medical,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,Pharmacy,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,Total,Member,,,,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,Medical,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,Pharmacy,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,Total,Member,,,,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,Medical,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,Pharmacy,Member,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,Total,Member,,,,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,,Member,,,,0,0,1,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,Medical,Member,,,,0,0,1,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,Pharmacy,Member,,,,0,0,1,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,Total,Member,,,,,,1,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,,Member,,,,0,0,2,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,Medical,Member,,,,0,0,2,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,Pharmacy,Member,,,,0,0,2,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,Total,Member,,,,,,2,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,,Member,,,,0,0,3,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,Medical,Member,,,,0,0,3,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,Pharmacy,Member,,,,0,0,3,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,Total,Member,,,,,,3,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,ER,Member,232662.85,439,317,144,79,4,529.98371298,2945.0993671,1.8656748587,284.07078034,1578.5705389
+Total,run3,Engaged,2016,HA Case Calls,,Inpatient,Member,1016974.58,439,317,66,31,4,2316.5707973,32805.631613,1.8656748587,1241.6798063,17583.788225
+Total,run3,Engaged,2016,HA Case Calls,,Medical,Member,3361443.73,439,317,5110,403,4,7657.047221,8341.0514392,1.8656748587,4104.1702337,4470.7958625
+Total,run3,Engaged,2016,HA Case Calls,,Outpatient,Member,1192806.86,439,317,995,218,4,2717.0999089,5471.5911009,1.8656748587,1456.36304,2932.7677732
+Total,run3,Engaged,2016,HA Case Calls,,Pharmacy,Member,853882.32,439,317,4685,371,4,1945.0622323,2301.5695957,1.8656748587,1042.5515589,1233.6391762
+Total,run3,Engaged,2016,HA Case Calls,,Professional,Member,1151662.29,439,317,4730,403,4,2623.3765148,2857.722804,1.8656748587,1406.1273874,1531.7367818
+Total,run3,Engaged,2016,HA Case Calls,,Total,Member,4215326.05,439,317,,,4,9602.1094533,,1.8656748587,5146.7217926,
+Total,run3,Engaged,2016,Biometrics,,,Member,,,,0,0,5,,,1.8656748587,,
+Total,run3,Engaged,2016,Biometrics,,Medical,Member,,,,0,0,5,,,1.8656748587,,
+Total,run3,Engaged,2016,Biometrics,,Pharmacy,Member,,,,0,0,5,,,1.8656748587,,
+Total,run3,Engaged,2016,Biometrics,,Total,Member,,,,,,5,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,,Member,,,,0,0,6,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,Medical,Member,,,,0,0,6,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,Pharmacy,Member,,,,0,0,6,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,Total,Member,,,,,,6,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,ER,Member,1103.22,25,25,3,2,7,44.1288,551.61,1.8656748587,23.652996016,295.6624502
+Total,run3,Engaged,2016,MEP Login,,Inpatient,Member,0,25,25,2,1,7,0,0,1.8656748587,0,0
+Total,run3,Engaged,2016,MEP Login,,Medical,Member,78584.25,25,25,182,23,7,3143.37,3416.7065217,1.8656748587,1684.8434149,1831.3515379
+Total,run3,Engaged,2016,MEP Login,,Outpatient,Member,25208.53,25,25,28,10,7,1008.3412,2520.853,1.8656748587,540.46995128,1351.1748782
+Total,run3,Engaged,2016,MEP Login,,Pharmacy,Member,75378.62,25,25,254,21,7,3015.1448,3589.4580952,1.8656748587,1616.1148262,1923.9462216
+Total,run3,Engaged,2016,MEP Login,,Professional,Member,53375.72,25,25,179,23,7,2135.0288,2320.6834783,1.8656748587,1144.3734636,1243.8841995
+Total,run3,Engaged,2016,MEP Login,,Total,Member,153962.87,25,25,,,7,6158.5148,,1.8656748587,3300.958241,
+Total,run3,Engaged,2016,Biometrics,,,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Biometrics,,Medical,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Biometrics,,Pharmacy,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Biometrics,,Total,Employee,,,,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,ER,Employee,232662.85,439,317,144,79,,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,Inpatient,Employee,569245.42,439,317,42,18,,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,Medical,Employee,2162048.21,439,317,3340,284,,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,Outpatient,Employee,850449.21,439,317,657,160,,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,Pharmacy,Employee,479423.17,439,317,3295,268,,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,Professional,Employee,742353.58,439,317,3124,284,,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,Total,Employee,2641471.38,439,317,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,ER,Employee,7362.71,38,38,7,5,,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,Inpatient,Employee,18278.06,38,38,5,2,,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,Medical,Employee,231344.06,38,38,344,34,,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,Outpatient,Employee,105911.38,38,38,55,15,,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,Pharmacy,Employee,87764.78,38,38,385,32,,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,Professional,Employee,107154.62,38,38,336,34,,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,Total,Employee,319108.84,38,38,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,High,ER,Employee,170846.22,439,317,105,54,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,High,Inpatient,Employee,569245.42,439,317,42,18,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,High,Medical,Employee,2162048.21,439,317,3340,284,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,High,Outpatient,Employee,850449.21,439,317,657,160,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,High,Pharmacy,Employee,479423.17,439,317,3295,268,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,High,Professional,Employee,742353.58,439,317,3124,284,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,High,Total,Employee,2641471.38,439,317,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,Low,ER,Employee,1103.22,25,25,3,2,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,Low,Inpatient,Employee,0,25,25,2,1,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,Low,Medical,Employee,78584.25,25,25,182,23,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,Low,Outpatient,Employee,25208.53,25,25,28,10,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,Low,Pharmacy,Employee,75378.62,25,25,254,21,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,Low,Professional,Employee,53375.72,25,25,179,23,,,,1.8656748587,,
+Total,run3,Engaged,2016,Tier,Low,Total,Employee,153962.87,25,25,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,Total,,ER,Employee,171949.44,464,342,108,56,,,,1.8656748587,,
+Total,run3,Engaged,2016,Total,,Inpatient,Employee,569245.42,464,342,44,19,,,,1.8656748587,,
+Total,run3,Engaged,2016,Total,,Medical,Employee,2240632.46,464,342,3522,307,,,,1.8656748587,,
+Total,run3,Engaged,2016,Total,,Outpatient,Employee,875657.74,464,342,685,170,,,,1.8656748587,,
+Total,run3,Engaged,2016,Total,,Pharmacy,Employee,554801.79,464,342,3549,289,,,,1.8656748587,,
+Total,run3,Engaged,2016,Total,,Professional,Employee,795729.3,464,342,3303,307,,,,1.8656748587,,
+Total,run3,Engaged,2016,Total,,Total,Employee,2795434.25,464,342,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,Medical,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,Pharmacy,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,Total,Employee,,,,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,Medical,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,Pharmacy,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,Total,Employee,,,,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,Medical,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,Pharmacy,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,Total,Employee,,,,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,Medical,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,Pharmacy,Employee,,,,0,0,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,Total,Employee,,,,,,,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,,Employee,,,,0,0,1,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,Medical,Employee,,,,0,0,1,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,Pharmacy,Employee,,,,0,0,1,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Workshops,,Total,Employee,,,,,,1,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,,Employee,,,,0,0,2,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,Medical,Employee,,,,0,0,2,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,Pharmacy,Employee,,,,0,0,2,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Challenges,,Total,Employee,,,,,,2,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,,Employee,,,,0,0,3,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,Medical,Employee,,,,0,0,3,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,Pharmacy,Employee,,,,0,0,3,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Tracker,,Total,Employee,,,,,,3,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,ER,Employee,232662.85,439,317,144,79,4,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,Inpatient,Employee,569245.42,439,317,42,18,4,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,Medical,Employee,2162048.21,439,317,3340,284,4,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,Outpatient,Employee,850449.21,439,317,657,160,4,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,Pharmacy,Employee,479423.17,439,317,3295,268,4,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,Professional,Employee,742353.58,439,317,3124,284,4,,,1.8656748587,,
+Total,run3,Engaged,2016,HA Case Calls,,Total,Employee,2641471.38,439,317,,,4,,,1.8656748587,,
+Total,run3,Engaged,2016,Biometrics,,,Employee,,,,0,0,5,,,1.8656748587,,
+Total,run3,Engaged,2016,Biometrics,,Medical,Employee,,,,0,0,5,,,1.8656748587,,
+Total,run3,Engaged,2016,Biometrics,,Pharmacy,Employee,,,,0,0,5,,,1.8656748587,,
+Total,run3,Engaged,2016,Biometrics,,Total,Employee,,,,,,5,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,,Employee,,,,0,0,6,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,Medical,Employee,,,,0,0,6,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,Pharmacy,Employee,,,,0,0,6,,,1.8656748587,,
+Total,run3,Engaged,2016,Wellness Commitments,,Total,Employee,,,,,,6,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,ER,Employee,1103.22,25,25,3,2,7,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,Inpatient,Employee,0,25,25,2,1,7,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,Medical,Employee,78584.25,25,25,182,23,7,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,Outpatient,Employee,25208.53,25,25,28,10,7,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,Pharmacy,Employee,75378.62,25,25,254,21,7,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,Professional,Employee,53375.72,25,25,179,23,7,,,1.8656748587,,
+Total,run3,Engaged,2016,MEP Login,,Total,Employee,153962.87,25,25,,,7,,,1.8656748587,,
+Total,run3,Engaged,2017,Biometrics,,,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Biometrics,,Medical,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Biometrics,,Pharmacy,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Biometrics,,Total,Member,,,,,,,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,ER,Member,263326.74,483,346,148,99,,545.18993789,2659.8660606,1.871758767,291.27147553,1421.0517442
+Total,run3,Engaged,2017,HA Case Calls,,Inpatient,Member,1139547.41,483,346,180,39,,2359.3114079,29219.164359,1.871758767,1260.478353,15610.539603
+Total,run3,Engaged,2017,HA Case Calls,,Medical,Member,5427792.88,483,346,6894,459,,11237.666418,11825.256819,1.871758767,6003.8006054,6317.72482
+Total,run3,Engaged,2017,HA Case Calls,,Outpatient,Member,2264264.47,483,346,1637,256,,4687.9181573,8844.7830859,1.871758767,2504.5525311,4725.3862207
+Total,run3,Engaged,2017,HA Case Calls,,Pharmacy,Member,858494.12,483,346,5344,424,,1777.4205383,2024.750283,1.871758767,949.59915224,1081.7367701
+Total,run3,Engaged,2017,HA Case Calls,,Professional,Member,2023981,483,346,6151,458,,4190.436853,4419.1724891,1.871758767,2238.7697213,2360.9733087
+Total,run3,Engaged,2017,HA Case Calls,,Total,Member,6286287,483,346,,,,13015.086957,,1.871758767,6953.3997576,
+Total,run3,Engaged,2017,MEP Login,,ER,Member,15921.26,23,23,9,3,,692.22869565,5307.0866667,1.871758767,369.82794357,2835.3475674
+Total,run3,Engaged,2017,MEP Login,,Inpatient,Member,67573.33,23,23,2,2,,2937.9708696,33786.665,1.871758767,1569.631152,18050.758247
+Total,run3,Engaged,2017,MEP Login,,Medical,Member,279830.73,23,23,300,21,,12166.553478,13325.272857,1.871758767,6500.0649085,7119.1187093
+Total,run3,Engaged,2017,MEP Login,,Outpatient,Member,145404.19,23,23,63,13,,6321.9213043,11184.937692,1.871758767,3377.5299552,5975.6299208
+Total,run3,Engaged,2017,MEP Login,,Pharmacy,Member,45846.46,23,23,317,18,,1993.3243478,2547.0255556,1.871758767,1064.947248,1360.765928
+Total,run3,Engaged,2017,MEP Login,,Professional,Member,66853.21,23,23,282,21,,2906.6613043,3183.4861905,1.871758767,1552.9038013,1700.7994014
+Total,run3,Engaged,2017,MEP Login,,Total,Member,325677.19,23,23,,,,14159.877826,,1.871758767,7565.0121565,
+Total,run3,Engaged,2017,Tier,High,ER,Member,263326.74,483,346,148,99,,545.18993789,2659.8660606,1.871758767,291.27147553,1421.0517442
+Total,run3,Engaged,2017,Tier,High,Inpatient,Member,1139547.41,483,346,180,39,,2359.3114079,29219.164359,1.871758767,1260.478353,15610.539603
+Total,run3,Engaged,2017,Tier,High,Medical,Member,5427792.88,483,346,6894,459,,11237.666418,11825.256819,1.871758767,6003.8006054,6317.72482
+Total,run3,Engaged,2017,Tier,High,Outpatient,Member,2264264.47,483,346,1637,256,,4687.9181573,8844.7830859,1.871758767,2504.5525311,4725.3862207
+Total,run3,Engaged,2017,Tier,High,Pharmacy,Member,858494.12,483,346,5344,424,,1777.4205383,2024.750283,1.871758767,949.59915224,1081.7367701
+Total,run3,Engaged,2017,Tier,High,Professional,Member,2023981,483,346,6151,458,,4190.436853,4419.1724891,1.871758767,2238.7697213,2360.9733087
+Total,run3,Engaged,2017,Tier,High,Total,Member,6286287,483,346,,,,13015.086957,,1.871758767,6953.3997576,
+Total,run3,Engaged,2017,Tier,Low,Inpatient,Member,35202.71,15,15,1,1,,2346.8473333,35202.71,1.871758767,1253.8193355,18807.290032
+Total,run3,Engaged,2017,Tier,Low,Medical,Member,87464.35,15,15,176,13,,5830.9566667,6728.0269231,1.871758767,3115.2287194,3594.4946763
+Total,run3,Engaged,2017,Tier,Low,Outpatient,Member,18827.34,15,15,31,8,,1255.156,2353.4175,1.871758767,670.57572918,1257.3294922
+Total,run3,Engaged,2017,Tier,Low,Pharmacy,Member,29487.89,15,15,173,11,,1965.8593333,2680.7172727,1.871758767,1050.273875,1432.1916478
+Total,run3,Engaged,2017,Tier,Low,Professional,Member,33434.3,15,15,165,13,,2228.9533333,2571.8692308,1.871758767,1190.8336548,1374.0388324
+Total,run3,Engaged,2017,Tier,Low,Total,Member,116952.24,15,15,,,,7796.816,,1.871758767,4165.5025945,
+Total,run3,Engaged,2017,Total,,ER,Member,263326.74,498,361,148,99,,528.76855422,2659.8660606,1.871758767,282.49823831,1421.0517442
+Total,run3,Engaged,2017,Total,,Inpatient,Member,1174750.12,498,361,181,40,,2358.9359839,29368.753,1.871758767,1260.2777802,15690.458364
+Total,run3,Engaged,2017,Total,,Medical,Member,5515257.23,498,361,7070,472,,11074.813715,11684.867013,1.871758767,5916.7954281,6242.7206
+Total,run3,Engaged,2017,Total,,Outpatient,Member,2283091.81,498,361,1668,264,,4584.5217068,8648.0750379,1.871758767,2449.312266,4620.2935926
+Total,run3,Engaged,2017,Total,,Pharmacy,Member,887982.01,498,361,5517,435,,1783.0964056,2041.337954,1.871758767,952.63152341,1090.5988475
+Total,run3,Engaged,2017,Total,,Professional,Member,2057415.3,498,361,6316,471,,4131.3560241,4368.1853503,1.871758767,2207.2053819,2333.733079
+Total,run3,Engaged,2017,Total,,Total,Member,6403239.24,498,361,,,,12857.91012,,1.871758767,6869.4269515,
+Total,run3,Engaged,2017,Wellness Challenges,,,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,Medical,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,Pharmacy,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,Total,Member,,,,,,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,Medical,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,Pharmacy,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,Total,Member,,,,,,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,Medical,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,Pharmacy,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,Total,Member,,,,,,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,Medical,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,Pharmacy,Member,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,Total,Member,,,,,,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,,Member,,,,0,0,1,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,Medical,Member,,,,0,0,1,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,Pharmacy,Member,,,,0,0,1,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,Total,Member,,,,,,1,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,,Member,,,,0,0,2,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,Medical,Member,,,,0,0,2,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,Pharmacy,Member,,,,0,0,2,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,Total,Member,,,,,,2,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,,Member,,,,0,0,3,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,Medical,Member,,,,0,0,3,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,Pharmacy,Member,,,,0,0,3,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,Total,Member,,,,,,3,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,ER,Member,263326.74,483,346,148,99,4,545.18993789,2659.8660606,1.871758767,291.27147553,1421.0517442
+Total,run3,Engaged,2017,HA Case Calls,,Inpatient,Member,1139547.41,483,346,180,39,4,2359.3114079,29219.164359,1.871758767,1260.478353,15610.539603
+Total,run3,Engaged,2017,HA Case Calls,,Medical,Member,5427792.88,483,346,6894,459,4,11237.666418,11825.256819,1.871758767,6003.8006054,6317.72482
+Total,run3,Engaged,2017,HA Case Calls,,Outpatient,Member,2264264.47,483,346,1637,256,4,4687.9181573,8844.7830859,1.871758767,2504.5525311,4725.3862207
+Total,run3,Engaged,2017,HA Case Calls,,Pharmacy,Member,858494.12,483,346,5344,424,4,1777.4205383,2024.750283,1.871758767,949.59915224,1081.7367701
+Total,run3,Engaged,2017,HA Case Calls,,Professional,Member,2023981,483,346,6151,458,4,4190.436853,4419.1724891,1.871758767,2238.7697213,2360.9733087
+Total,run3,Engaged,2017,HA Case Calls,,Total,Member,6286287,483,346,,,4,13015.086957,,1.871758767,6953.3997576,
+Total,run3,Engaged,2017,Biometrics,,,Member,,,,0,0,5,,,1.871758767,,
+Total,run3,Engaged,2017,Biometrics,,Medical,Member,,,,0,0,5,,,1.871758767,,
+Total,run3,Engaged,2017,Biometrics,,Pharmacy,Member,,,,0,0,5,,,1.871758767,,
+Total,run3,Engaged,2017,Biometrics,,Total,Member,,,,,,5,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,,Member,,,,0,0,6,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,Medical,Member,,,,0,0,6,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,Pharmacy,Member,,,,0,0,6,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,Total,Member,,,,,,6,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,,Member,,15,15,0,0,7,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,Inpatient,Member,35202.71,15,15,1,1,7,2346.8473333,35202.71,1.871758767,1253.8193355,18807.290032
+Total,run3,Engaged,2017,MEP Login,,Medical,Member,87464.35,15,15,176,13,7,5830.9566667,6728.0269231,1.871758767,3115.2287194,3594.4946763
+Total,run3,Engaged,2017,MEP Login,,Outpatient,Member,18827.34,15,15,31,8,7,1255.156,2353.4175,1.871758767,670.57572918,1257.3294922
+Total,run3,Engaged,2017,MEP Login,,Pharmacy,Member,29487.89,15,15,173,11,7,1965.8593333,2680.7172727,1.871758767,1050.273875,1432.1916478
+Total,run3,Engaged,2017,MEP Login,,Professional,Member,33434.3,15,15,165,13,7,2228.9533333,2571.8692308,1.871758767,1190.8336548,1374.0388324
+Total,run3,Engaged,2017,MEP Login,,Total,Member,116952.24,15,15,,,7,7796.816,,1.871758767,4165.5025945,
+Total,run3,Engaged,2017,Biometrics,,,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Biometrics,,Medical,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Biometrics,,Pharmacy,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Biometrics,,Total,Employee,,,,,,,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,ER,Employee,263326.74,483,346,148,99,,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,Inpatient,Employee,629955.52,483,346,27,19,,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,Medical,Employee,2834309.57,483,346,4135,322,,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,Outpatient,Employee,1213670.81,483,346,823,178,,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,Pharmacy,Employee,479862.73,483,346,3541,298,,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,Professional,Employee,990683.24,483,346,3853,321,,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,Total,Employee,3314172.3,483,346,,,,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,ER,Employee,15921.26,23,23,9,3,,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,Inpatient,Employee,67573.33,23,23,2,2,,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,Medical,Employee,279830.73,23,23,300,21,,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,Outpatient,Employee,145404.19,23,23,63,13,,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,Pharmacy,Employee,45846.46,23,23,317,18,,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,Professional,Employee,66853.21,23,23,282,21,,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,Total,Employee,325677.19,23,23,,,,,,1.871758767,,
+Total,run3,Engaged,2017,Tier,High,ER,Employee,200352.67,483,346,105,70,,,,1.871758767,,
+Total,run3,Engaged,2017,Tier,High,Inpatient,Employee,629955.52,483,346,27,19,,,,1.871758767,,
+Total,run3,Engaged,2017,Tier,High,Medical,Employee,2834309.57,483,346,4135,322,,,,1.871758767,,
+Total,run3,Engaged,2017,Tier,High,Outpatient,Employee,1213670.81,483,346,823,178,,,,1.871758767,,
+Total,run3,Engaged,2017,Tier,High,Pharmacy,Employee,479862.73,483,346,3541,298,,,,1.871758767,,
+Total,run3,Engaged,2017,Tier,High,Professional,Employee,990683.24,483,346,3853,321,,,,1.871758767,,
+Total,run3,Engaged,2017,Tier,High,Total,Employee,3314172.3,483,346,,,,,,1.871758767,,
+Total,run3,Engaged,2017,Tier,Low,Inpatient,Employee,35202.71,15,15,1,1,,,,1.871758767,,
+Total,run3,Engaged,2017,Tier,Low,Medical,Employee,87464.35,15,15,176,13,,,,1.871758767,,
+Total,run3,Engaged,2017,Tier,Low,Outpatient,Employee,18827.34,15,15,31,8,,,,1.871758767,,
+Total,run3,Engaged,2017,Tier,Low,Pharmacy,Employee,29487.89,15,15,173,11,,,,1.871758767,,
+Total,run3,Engaged,2017,Tier,Low,Professional,Employee,33434.3,15,15,165,13,,,,1.871758767,,
+Total,run3,Engaged,2017,Tier,Low,Total,Employee,116952.24,15,15,,,,,,1.871758767,,
+Total,run3,Engaged,2017,Total,,ER,Employee,200352.67,498,361,105,70,,,,1.871758767,,
+Total,run3,Engaged,2017,Total,,Inpatient,Employee,665158.23,498,361,28,20,,,,1.871758767,,
+Total,run3,Engaged,2017,Total,,Medical,Employee,2921773.92,498,361,4311,335,,,,1.871758767,,
+Total,run3,Engaged,2017,Total,,Outpatient,Employee,1232498.15,498,361,854,186,,,,1.871758767,,
+Total,run3,Engaged,2017,Total,,Pharmacy,Employee,509350.62,498,361,3714,309,,,,1.871758767,,
+Total,run3,Engaged,2017,Total,,Professional,Employee,1024117.54,498,361,4018,334,,,,1.871758767,,
+Total,run3,Engaged,2017,Total,,Total,Employee,3431124.54,498,361,,,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,Medical,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,Pharmacy,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,Total,Employee,,,,,,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,Medical,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,Pharmacy,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,Total,Employee,,,,,,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,Medical,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,Pharmacy,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,Total,Employee,,,,,,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,Medical,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,Pharmacy,Employee,,,,0,0,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,Total,Employee,,,,,,,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,,Employee,,,,0,0,1,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,Medical,Employee,,,,0,0,1,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,Pharmacy,Employee,,,,0,0,1,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Workshops,,Total,Employee,,,,,,1,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,,Employee,,,,0,0,2,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,Medical,Employee,,,,0,0,2,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,Pharmacy,Employee,,,,0,0,2,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Challenges,,Total,Employee,,,,,,2,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,,Employee,,,,0,0,3,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,Medical,Employee,,,,0,0,3,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,Pharmacy,Employee,,,,0,0,3,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Tracker,,Total,Employee,,,,,,3,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,ER,Employee,263326.74,483,346,148,99,4,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,Inpatient,Employee,629955.52,483,346,27,19,4,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,Medical,Employee,2834309.57,483,346,4135,322,4,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,Outpatient,Employee,1213670.81,483,346,823,178,4,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,Pharmacy,Employee,479862.73,483,346,3541,298,4,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,Professional,Employee,990683.24,483,346,3853,321,4,,,1.871758767,,
+Total,run3,Engaged,2017,HA Case Calls,,Total,Employee,3314172.3,483,346,,,4,,,1.871758767,,
+Total,run3,Engaged,2017,Biometrics,,,Employee,,,,0,0,5,,,1.871758767,,
+Total,run3,Engaged,2017,Biometrics,,Medical,Employee,,,,0,0,5,,,1.871758767,,
+Total,run3,Engaged,2017,Biometrics,,Pharmacy,Employee,,,,0,0,5,,,1.871758767,,
+Total,run3,Engaged,2017,Biometrics,,Total,Employee,,,,,,5,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,,Employee,,,,0,0,6,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,Medical,Employee,,,,0,0,6,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,Pharmacy,Employee,,,,0,0,6,,,1.871758767,,
+Total,run3,Engaged,2017,Wellness Commitments,,Total,Employee,,,,,,6,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,,Employee,,15,15,0,0,7,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,Inpatient,Employee,35202.71,15,15,1,1,7,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,Medical,Employee,87464.35,15,15,176,13,7,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,Outpatient,Employee,18827.34,15,15,31,8,7,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,Pharmacy,Employee,29487.89,15,15,173,11,7,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,Professional,Employee,33434.3,15,15,165,13,7,,,1.871758767,,
+Total,run3,Engaged,2017,MEP Login,,Total,Employee,116952.24,15,15,,,7,,,1.871758767,,
+Total,run3,Non-Engaged,2016,Total,,ER,Member,2647895.03,9797,4134,1702,1130,,270.27610799,2343.2699381,1.0751464905,251.38537899,2179.4889894
+Total,run3,Non-Engaged,2016,Total,,Inpatient,Member,6215602.8,9797,4134,555,314,,634.43939982,19794.913376,1.0751464905,590.09577337,18411.363986
+Total,run3,Non-Engaged,2016,Total,,Medical,Member,31468161.52,9797,4134,66926,8296,,3212.0201613,3793.1727965,1.0751464905,2987.5186215,3528.0520654
+Total,run3,Non-Engaged,2016,Total,,Outpatient,Member,10758212.81,9797,4134,9747,3330,,1098.1129744,3230.6945375,1.0751464905,1021.3612601,3004.8877674
+Total,run3,Non-Engaged,2016,Total,,Pharmacy,Member,13655074.85,9797,4134,68692,7313,,1393.8016587,1867.2329892,1.0751464905,1296.383024,1736.7242563
+Total,run3,Non-Engaged,2016,Total,,Professional,Member,14494345.91,9797,4134,63978,8288,,1479.4677871,1748.8351725,1.0751464905,1376.061588,1626.6017589
+Total,run3,Non-Engaged,2016,Total,,Total,Member,45123236.37,9797,4134,,,,4605.8218199,,1.0751464905,4283.9016455,
+Total,run3,Non-Engaged,2016,Total,,ER,Employee,1010500.7,9797,4134,563,411,,,,1.0751464905,,
+Total,run3,Non-Engaged,2016,Total,,Inpatient,Employee,2468297.72,9797,4134,173,110,,,,1.0751464905,,
+Total,run3,Non-Engaged,2016,Total,,Medical,Employee,13455495.68,9797,4134,27199,3327,,,,1.0751464905,,
+Total,run3,Non-Engaged,2016,Total,,Outpatient,Employee,4922145.14,9797,4134,4198,1398,,,,1.0751464905,,
+Total,run3,Non-Engaged,2016,Total,,Pharmacy,Employee,4440657.15,9797,4134,30525,3123,,,,1.0751464905,,
+Total,run3,Non-Engaged,2016,Total,,Professional,Employee,6065052.82,9797,4134,25924,3323,,,,1.0751464905,,
+Total,run3,Non-Engaged,2016,Total,,Total,Employee,17896152.83,9797,4134,,,,,,1.0751464905,,
+Total,run3,Non-Engaged,2017,Total,,ER,Member,2741108.92,10356,4325,1799,1219,,264.68799923,2248.653749,1.0301280339,256.94670033,2182.8876363
+Total,run3,Non-Engaged,2017,Total,,Inpatient,Member,6691374.76,10356,4325,584,318,,646.13506759,21042.058994,1.0301280339,627.23763099,20426.64436
+Total,run3,Non-Engaged,2017,Total,,Medical,Member,35467354.32,10356,4325,73665,8996,,3424.8121205,3942.5693997,1.0301280339,3324.6470418,3827.2615345
+Total,run3,Non-Engaged,2017,Total,,Outpatient,Member,13041327.51,10356,4325,10891,3534,,1259.3016136,3690.2454754,1.0301280339,1222.4709668,3582.3172984
+Total,run3,Non-Engaged,2017,Total,,Pharmacy,Member,14665081.03,10356,4325,73428,7858,,1416.0951168,1866.2612662,1.0301280339,1374.6787489,1811.6789417
+Total,run3,Non-Engaged,2017,Total,,Professional,Member,15734652.05,10356,4325,70521,8989,,1519.3754394,1750.4340917,1.0301280339,1474.9384439,1699.2393509
+Total,run3,Non-Engaged,2017,Total,,Total,Member,50132435.35,10356,4325,,,,4840.9072374,,1.0301280339,4699.3257907,
+Total,run3,Non-Engaged,2017,Total,,ER,Employee,1040001.11,10356,4325,583,429,,,,1.0301280339,,
+Total,run3,Non-Engaged,2017,Total,,Inpatient,Employee,2638198.78,10356,4325,189,110,,,,1.0301280339,,
+Total,run3,Non-Engaged,2017,Total,,Medical,Employee,14547949.41,10356,4325,29038,3593,,,,1.0301280339,,
+Total,run3,Non-Engaged,2017,Total,,Outpatient,Employee,5535871.65,10356,4325,4470,1470,,,,1.0301280339,,
+Total,run3,Non-Engaged,2017,Total,,Pharmacy,Employee,5615217.98,10356,4325,33412,3317,,,,1.0301280339,,
+Total,run3,Non-Engaged,2017,Total,,Professional,Employee,6373878.98,10356,4325,27838,3589,,,,1.0301280339,,
+Total,run3,Non-Engaged,2017,Total,,Total,Employee,20163167.39,10356,4325,,,,,,1.0301280339,,
+Total,run3,Total,2016,Total,,ER,Member,2881661.1,10261,4476,1849,1211,,280.83628301,2379.5715111,1.1108939969,252.80205294,2142.0329193
+Total,run3,Total,2016,Total,,Inpatient,Member,7232577.38,10261,4476,623,346,,704.86086931,20903.402832,1.1108939969,634.49876521,18816.739393
+Total,run3,Total,2016,Total,,Medical,Member,34908189.5,10261,4476,72218,8722,,3402.0260696,4002.3147787,1.1108939969,3062.4218684,3602.7872956
+Total,run3,Total,2016,Total,,Outpatient,Member,11976228.2,10261,4476,10770,3558,,1167.1599454,3366.0000562,1.1108939969,1050.6492507,3029.9921195
+Total,run3,Total,2016,Total,,Pharmacy,Member,14584335.79,10261,4476,73631,7705,,1421.3366914,1892.8404659,1.1108939969,1279.4530309,1703.8893641
+Total,run3,Total,2016,Total,,Professional,Member,15699383.92,10261,4476,68887,8714,,1530.0052548,1801.6277163,1.1108939969,1377.2738525,1621.7818454
+Total,run3,Total,2016,Total,,Total,Member,49492525.29,10261,4476,,,,4823.3627609,,1.1108939969,4341.8748993,
+Total,run3,Total,2016,Total,,ER,Employee,2881661.1,10261,4476,1849,1211,,,,1.1108939969,,
+Total,run3,Total,2016,Total,,Inpatient,Employee,7232577.38,10261,4476,623,346,,,,1.1108939969,,
+Total,run3,Total,2016,Total,,Medical,Employee,15696128.14,10261,4476,30721,3634,,,,1.1108939969,,
+Total,run3,Total,2016,Total,,Outpatient,Employee,11976228.2,10261,4476,10770,3558,,,,1.1108939969,,
+Total,run3,Total,2016,Total,,Pharmacy,Employee,14584335.79,10261,4476,73631,7705,,,,1.1108939969,,
+Total,run3,Total,2016,Total,,Professional,Employee,15699383.92,10261,4476,68887,8714,,,,1.1108939969,,
+Total,run3,Total,2016,Total,,Total,Employee,30280463.93,10261,4476,,,,,,1.1108939969,,
+Total,run3,Total,2017,Total,,ER,Member,3004435.66,10854,4686,1947,1318,,276.80446471,2279.5414719,1.0687434849,258.99990843,2132.9173035
+Total,run3,Total,2017,Total,,Inpatient,Member,7866124.88,10854,4686,765,358,,724.72128985,21972.415866,1.0687434849,678.10592542,20559.110934
+Total,run3,Total,2017,Total,,Medical,Member,40982611.55,10854,4686,80735,9468,,3775.8072185,4328.539454,1.0687434849,3532.9405718,4050.1200851
+Total,run3,Total,2017,Total,,Outpatient,Member,15324419.32,10854,4686,12559,3798,,1411.868373,4034.8655398,1.0687434849,1321.054484,3775.3358003
+Total,run3,Total,2017,Total,,Pharmacy,Member,15553063.04,10854,4686,78945,8293,,1432.9337608,1875.4447172,1.0687434849,1340.7649086,1754.812772
+Total,run3,Total,2017,Total,,Professional,Member,17792067.35,10854,4686,76837,9460,,1639.2175557,1880.7682188,1.0687434849,1533.7801623,1759.7938565
+Total,run3,Total,2017,Total,,Total,Member,56535674.59,10854,4686,,,,5208.7409794,,1.0687434849,4873.7054804,
+Total,run3,Total,2017,Total,,ER,Employee,3004435.66,10854,4686,1947,1318,,,,1.0687434849,,
+Total,run3,Total,2017,Total,,Inpatient,Employee,7866124.88,10854,4686,765,358,,,,1.0687434849,,
+Total,run3,Total,2017,Total,,Medical,Employee,17469723.33,10854,4686,33349,3928,,,,1.0687434849,,
+Total,run3,Total,2017,Total,,Outpatient,Employee,15324419.32,10854,4686,12559,3798,,,,1.0687434849,,
+Total,run3,Total,2017,Total,,Pharmacy,Employee,15553063.04,10854,4686,78945,8293,,,,1.0687434849,,
+Total,run3,Total,2017,Total,,Professional,Employee,17792067.35,10854,4686,76837,9460,,,,1.0687434849,,
+Total,run3,Total,2017,Total,,Total,Employee,33022786.37,10854,4686,,,,,,1.0687434849,,
